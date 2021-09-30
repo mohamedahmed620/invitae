@@ -6,12 +6,6 @@ Created on Thu Sep 30 07:51:52 2021
 @author: mohamed.ahmed
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 29 15:35:37 2021
-@author: RagwaElsayed
-"""
 import pandas as pd
 import json
 import os
